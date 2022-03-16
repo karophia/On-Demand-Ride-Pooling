@@ -1,4 +1,5 @@
 # Effective Topology for On-Demand Ride-Pooling Networks
 
-This repository contains the simulation code used for my bachelor thesis at TU Berlin.
+This repository will the simulation code used for my bachelor thesis at TU Berlin.
+Still in preparation.
 Please contact the owner for full access.
